@@ -1,0 +1,5 @@
+name,email,dob,campus,department,designation,password,gender
+Vishwa,vishwa@gmail.com,2002-09-15T00:00:00.000Z,KTR,ECE,AP,123456,Male
+Vijay,vijay@gmail.com,2002-09-15T00:00:00.000Z,NCR,CSE,AP,123456,Male
+Rohith,rohith@gmail.com,2002-09-15T00:00:00.000Z,TPJ,MECH,Professor,123456,Male
+Suresh,suresh@gmail.com,2002-09-15T00:00:00.000Z,VDP,IT,AP,123456,Male
